@@ -1,4 +1,4 @@
-### Hi there 👋, I am Abdulrasaq. A software developer with  one year experienced building  client and server side application.
+### Hi there 👋, I am Abdulrasaq. A software developer with  three years of experience building  client and server side applications.
 
 
 
