@@ -1,15 +1,29 @@
-### Hi there 👋, I am Abdulrasaq. A software developer with  three years of experience building  client and server side applications.
+👋 Hi, I'm Ibrahim Abdulrasaq
+
+💼 Backend Engineer | 🔐 Fintech  |  Banking Specialist 
+
+I'm a backend engineer with several years of hands-on experience building scalable, secure, high-performance systems in the fintech and banking sectors. I specialize in designing APIs, integrating payment systems, and crafting backend solutions that power real-world financial applications.
+
+
+***🔧 Tech Stack:***
+
+Node.js • Java • PostgreSQL • MongoDB • Redis • Docker • RESTful APIs • Microservices • Kafka • AWS
+
+
+***💡 What I'm Working On:***
+
+- Building fault-tolerant backend systems
+
+- Exploring blockchain and smart contracts for fintech
+
+- Contributing to open-source tools that simplify backend development
 
 
 
+***📌 Values:***
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
- You can reach through my email [abdulrasaqalagbed@gmail.com](mailto:abdulrasaqalagbede@gmail.com)  and on twitter [@faraamcode](https://twitter.com/faraamcode)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Clean code • Secure systems • Reliable architecture • Continuous learning
 
+***🌍 Let's Connect:***
+
+Always open to collaboration, mentorship, and innovative fintech ideas.
